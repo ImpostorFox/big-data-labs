@@ -1,0 +1,6 @@
+.idea
+.gradle
+out
+build
+obfuscate.xml
+unobfuscate.xml
